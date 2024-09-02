@@ -74,6 +74,6 @@ Column(
     Button(onClick = { result = (1..6).random() }) {
         Text(stringResource(R.string.roll))
         
+        }
     }
-}
 }
