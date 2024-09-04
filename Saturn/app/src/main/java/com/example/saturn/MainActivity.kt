@@ -36,6 +36,14 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
+
+    var
+
+
+
+    Column(
+
+    )
     Text(
         text = "Saturn eats his child!",
         modifier = modifier
